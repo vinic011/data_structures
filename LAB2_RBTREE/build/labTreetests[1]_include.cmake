@@ -1,0 +1,5 @@
+if(EXISTS "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/labTreetests[1]_tests.cmake")
+  include("/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/labTreetests[1]_tests.cmake")
+else()
+  add_test(labTreetests_NOT_BUILT labTreetests_NOT_BUILT)
+endif()

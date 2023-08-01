@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build",
+  "command": "/usr/bin/g++  -I/home/vinicius/Documents/ctc12/LAB1_HASHING/src -I/home/vinicius/Documents/ctc12/LAB1_HASHING/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/lab1tests.dir/test/testLab1.cpp.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/test/testLab1.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/test/testLab1.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build",
+  "command": "/usr/bin/g++  -I/home/vinicius/Documents/ctc12/LAB1_HASHING/src -I/home/vinicius/Documents/ctc12/LAB1_HASHING/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/lab1tests.dir/src/hash.cpp.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/src/hash.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/src/hash.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build",
+  "command": "/usr/bin/g++  -I/home/vinicius/Documents/ctc12/LAB1_HASHING/src -I/home/vinicius/Documents/ctc12/LAB1_HASHING/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/lab1tests.dir/src/hashfunctions.cpp.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/src/hashfunctions.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/src/hashfunctions.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock/include -I/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -I/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

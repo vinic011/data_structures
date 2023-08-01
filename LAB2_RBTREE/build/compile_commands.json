@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -g -std=gnu++11 -o CMakeFiles/libLabTree.dir/lib/IndexFactory.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/IndexFactory.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/IndexFactory.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -g -std=gnu++11 -o CMakeFiles/libLabTree.dir/lib/IndexPointsStlMultimap.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/IndexPointsStlMultimap.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/IndexPointsStlMultimap.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -g -std=gnu++11 -o CMakeFiles/libLabTree.dir/lib/Point3.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/Point3.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/Point3.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -g -std=gnu++11 -o CMakeFiles/libLabTree.dir/lib/PointReader.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/PointReader.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/PointReader.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -g -std=gnu++11 -o CMakeFiles/libLabTree.dir/lib/Tick.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/Tick.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib/Tick.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/labTreetests.dir/test/testTree.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/test/testTree.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/test/testTree.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/labTreetests.dir/src/IndexPointsAluno.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/src/IndexPointsAluno.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/src/IndexPointsAluno.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/labTreetests.dir/src/Node.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/src/Node.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/src/Node.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/lib -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/src -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/labTreetests.dir/src/RBTree.cpp.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/src/RBTree.cpp",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/src/RBTree.cpp"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock/include -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -I/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/include -isystem /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/vinicius/Documents/ctc12/LAB2_RBTREE/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

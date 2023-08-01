@@ -1,0 +1,5 @@
+if(EXISTS "/home/vinicius/Documents/ctc12/LAB1_HASHING/build/lab1tests[1]_tests.cmake")
+  include("/home/vinicius/Documents/ctc12/LAB1_HASHING/build/lab1tests[1]_tests.cmake")
+else()
+  add_test(lab1tests_NOT_BUILT lab1tests_NOT_BUILT)
+endif()
